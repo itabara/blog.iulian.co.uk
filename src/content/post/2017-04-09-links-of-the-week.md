@@ -6,7 +6,8 @@ categories:
 - news
 tags:
 - raspberry pi
-- markdown
+- jenkins
+- docker
 ---
 
 Check out my links of the week.
