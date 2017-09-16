@@ -1,4 +1,4 @@
-# blog.iulian.co.uk
+# iulian.co.uk
 iulian.co.uk content
 
 ### Editing the blog:
@@ -6,4 +6,4 @@ iulian.co.uk content
 
 ### Generate:
 1. docker restart hugo 
-2. don;t forget to push to github :)
+2. don't forget to push to github :)
