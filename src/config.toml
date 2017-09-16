@@ -1,5 +1,5 @@
 title = "Geek stuff, Technology & News"
-theme = "simple-a"
+theme = "hugo-tranquilpeak-theme"
 baseurl = "/"
 
 languageCode = "en-us"
