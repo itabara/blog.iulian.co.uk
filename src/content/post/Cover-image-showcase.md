@@ -1,5 +1,6 @@
 ---
 title: "Cover image showcase"
+draft = true
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
