@@ -1,6 +1,6 @@
 ---
 title: "Links of the week"
-date: 2017-11-01
+date: 2017-11-11
 categories:
 - links
 - news
