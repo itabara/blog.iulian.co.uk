@@ -8,7 +8,7 @@ tags:
 - node.js
 ---
 
-Check out my links of the week.
+Check out my links of the week:
 <!--more-->
 
 * Streaming Data with Fetch() and NDJSON - https://canjs.com/doc/can-ndjson-stream.html
