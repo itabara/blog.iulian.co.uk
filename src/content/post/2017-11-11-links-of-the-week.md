@@ -11,5 +11,6 @@ tags:
 Check out my links of the week:
 <!--more-->
 
-* Streaming Data with Fetch() and NDJSON - https://canjs.com/doc/can-ndjson-stream.html
-* Data fetch streaming (Chrome only, Firefox & Edge in development) https://glitch.com/edit/#!/ndjson-stream-api-demo?path=server.js:1:0
+* [Streaming Data with Fetch() and NDJSON](https://canjs.com/doc/can-ndjson-stream.html)
+* [Data fetch streaming (Chrome only, Firefox & Edge in development)](https://glitch.com/edit/#!/ndjson-stream-api-demo?path=server.js:1:0)
+* [JSON Viewer and formatter](http://jsonviewer.stack.hu/)
