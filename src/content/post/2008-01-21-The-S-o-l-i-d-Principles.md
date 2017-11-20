@@ -3,7 +3,6 @@ title: The S.O.L.I.D. Principles
 author: Iulian
 type: post
 date: 2008-01-21T19:58:06+00:00
-url: /2010/03/the-s-o-l-i-d-principles/
 categories:
   - Design patterns
 tags:
@@ -29,4 +28,9 @@ The ISP is all about splitting the methods of a contract into groups of responsi
 
 ## Dependency Inversion Principle (DIP)
 
-The DIP is all about isolating your classes from concrete implementations and having them depend on abstract classes or interfaces. It promotes the mantra of coding to an interface rather than an implementation, which increases flexibility within a system by ensuring you are not tightly coupled to one implementation.
+The DIP is all about isolating your classes from concrete implementations and having them depend on abstract classes or interfaces. As to why it is important, in short: changes are risky, and by depending on a concept (interface) instead of on an implementation, you reduce the need for changes and increases flexibility within a system by ensuring you are not tightly coupled to one implementation.
+
+With other words:
+
+* High level modules should not depend upon low-level modules. Both should depend upon abstractions.
+* Abstractions should never depend upon details. Details should depend upon abstractions.
