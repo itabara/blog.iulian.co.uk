@@ -13,7 +13,7 @@ The S.O.L.I.D. design principles are a collection of best practices for object-o
 
 ## Single Responsibility Principle (SRP)
 
-The principle of SRP is closely aligned with SOC (Separation of Concerns). It states that every object should only have one reason to change and a single focus of responsibility. By adhering to this principle, you avoid the problem of monolithic class design that is the software equivalent of a Swiss army knife. By having concise objects, you again increase the readability and maintenance of a system.
+The principle of SRP is closely aligned with [Separation of Concerns](https://en.wikipedia.org/wiki/Separation_of_concerns). It states that every object should only have one reason to change and a single focus of responsibility. By adhering to this principle, you avoid the problem of monolithic class design that is the software equivalent of a Swiss army knife. By having concise objects, you again increase the readability and maintenance of a system.
 
 ## Open-Closed Principle (OCP)
 
