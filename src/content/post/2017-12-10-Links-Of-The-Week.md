@@ -15,3 +15,5 @@ Check out my links of the week:
 * [Clocker - track project hours](https://github.com/substack/clocker)
 * [Tape - Test harness for node and browsers](https://github.com/substack/tape)
 * [Faucet - Tuman-readable TAP summarizer](https://github.com/substack/faucet)
+* [Wappalyzer](https://www.wappalyzer.com/)
+* [Strapi](https://strapi.io/)
